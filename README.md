@@ -1,7 +1,4 @@
 # LibraryMixin
-LibraryMixin provides a modern, feature-rich set of functions for managing addon libraries. It extends the core ideas of LibStub with additional functionality such as locking, dependency management, and callback integration.
-
-# LibraryMixin
 
 **LibraryMixin** is an enhanced library versioning and management system for World of Warcraft addons. It allows developers to register, retrieve, update, lock, and remove libraries with ease. With additional features such as dependency management and optional callback integration, LibraryMixin offers a modern approach compared to legacy systems.
 
